@@ -1,0 +1,223 @@
+requirements:
+- !fairstandards/requirements/environment/soil/soil-general-principle
+- !fairstandards/requirements/environment/soil/soil-erosion
+- !fairstandards/requirements/environment/soil/soil-quality
+- !fairstandards/requirements/environment/soil/soil-nutrients
+- !fairstandards/requirements/environment/soil/soil-maintenance
+- !fairstandards/requirements/environment/soil/soil-enhancement-by-use-of-cover-crops
+
+- !fairstandards/requirements/environment/forests/forestry-general-principle
+- !fairstandards/requirements/environment/forests/reforestation
+- !fairstandards/requirements/environment/forests/deforestation-prevention-remediation
+- !fairstandards/requirements/environment/forests/forest-conservation
+- !fairstandards/requirements/environment/forests/forest-conversion-into-production-lands
+
+- !fairstandards/requirements/environment/inputs/chemicals-natural-organic-inputs-general-principle
+- !fairstandards/requirements/environment/inputs/chemicals-or-substances-prohibition
+- !fairstandards/requirements/environment/inputs/list-of-prohibited-chemicals
+- !fairstandards/requirements/environment/inputs/list-of-authorized-chemicals
+- !fairstandards/requirements/environment/inputs/integrated-pest-management-ipm-icm
+- !fairstandards/requirements/environment/inputs/training-on-integrated-pest-management-ipm
+- !fairstandards/requirements/environment/inputs/chemicals-and-related-materials-general-principle
+- !fairstandards/requirements/environment/inputs/agrochemicals-fertilizers-pesticides-soil-fumigants
+- !fairstandards/requirements/environment/inputs/chemicals-storage-and-labelling
+- !fairstandards/requirements/environment/inputs/organic-natural-inputs-general-principle
+- !fairstandards/requirements/environment/inputs/use-of-organic-fertilizer
+- !fairstandards/requirements/environment/inputs/equipment-training
+- !fairstandards/requirements/environment/inputs/chemicals-selective-and-targeted-application
+- !fairstandards/requirements/environment/inputs/training-on-chemicals-handling-and-exposure
+- !fairstandards/requirements/environment/inputs/chemical-substances-storage-disposal-waste-labelling
+- !fairstandards/requirements/environment/inputs/treatment-of-waste-of-chemical-substances
+- !fairstandards/requirements/environment/inputs/gmos-genetically-modified-varieties-prohibition
+- !fairstandards/requirements/environment/inputs/gmos-genetically-modified-varieties-management-and-monitoring
+- !fairstandards/requirements/environment/inputs/gmos-genetically-modified-varieties-risk-prevention
+
+- !fairstandards/requirements/environment/biodiversity/biodiversity-general-principle
+- !fairstandards/requirements/environment/biodiversity/sustainable-management-and-use-of-natural-resources
+- !fairstandards/requirements/environment/biodiversity/habitat-eco-system-restoration--rehabilitation
+- !fairstandards/requirements/environment/biodiversity/impact-assessment-policy-for-new-production
+- !fairstandards/requirements/environment/biodiversity/wildlife-general-principle
+- !fairstandards/requirements/environment/biodiversity/use-of-wildlife-species-and-resources
+- !fairstandards/requirements/environment/biodiversity/specific-criteria-relating-to-rare-threatened-or-endangered-wildlife-species
+- !fairstandards/requirements/environment/biodiversity/impacts-on-wildlife-populations
+- !fairstandards/requirements/environment/biodiversity/protecting-biodiversity-zones-via-set-asides
+- !fairstandards/requirements/environment/biodiversity/ecological-niches-corridors
+- !fairstandards/requirements/environment/biodiversity/criteria-related-to-maintaining-or-protecting-rare-threatened-or-endangered-ecosystems
+- !fairstandards/requirements/environment/biodiversity/native-species-protection-against-invasive-alien-species
+- !fairstandards/requirements/environment/biodiversity/protection-of-ecosystems-against-invasive-species
+- !fairstandards/requirements/environment/biodiversity/high-conservation-value-areas
+- !fairstandards/requirements/environment/biodiversity/criteria-related-to-hcv-as-intended-in-the-hcv-resource-network
+- !fairstandards/requirements/environment/biodiversity/legally-protected-and-internationally-recognized-areas-for-their-biodiversity
+- !fairstandards/requirements/environment/biodiversity/prost-production-practices-impact-assessment-rotation-of-crops
+- !fairstandards/requirements/environment/biodiversity/human-settlements-in-or-close-to-production-areas
+- !fairstandards/requirements/environment/biodiversity/criteria-related-to-natural-wetlands-and-or-watercourses-affected-by-production
+
+- !fairstandards/requirements/environment/waste/waste-management-general-principle
+- !fairstandards/requirements/environment/waste/treatment-and-use-of-solid-waste
+- !fairstandards/requirements/environment/waste/monitoring-and-measuring-waste-toxicity
+- !fairstandards/requirements/environment/waste/solid-waste-reduction-reuse-recycle
+- !fairstandards/requirements/environment/waste/non-solid-waste
+- !fairstandards/requirements/environment/waste/run-off-of-waste-chemicals-mineral-and-organic-substances
+- !fairstandards/requirements/environment/waste/pollution-incidents-mitigation-procedures-for-risks-monitoring-and-records-keeping
+- !fairstandards/requirements/environment/waste/composting
+- !fairstandards/requirements/environment/waste/waste-disposal-incl-solid-waste-non-solid-waste-hazardous-waste
+- !fairstandards/requirements/environment/waste/disposal-of-hazardous-waste
+- !fairstandards/requirements/environment/waste/waste-elimination-through-the-use-of-fire
+
+- !fairstandards/requirements/environment/water/water-use-and-management-general-principle
+- !fairstandards/requirements/environment/water/water-management-plan
+- !fairstandards/requirements/environment/water/water-dependencies
+- !fairstandards/requirements/environment/water/water-use-reducting-including-reuse-and-recycling
+- !fairstandards/requirements/environment/water/wastewater-management-treatment
+- !fairstandards/requirements/environment/water/water-contamination-pollution
+- !fairstandards/requirements/environment/water/water-disposal-storage
+- !fairstandards/requirements/environment/water/monitoring-of-water-usage
+- !fairstandards/requirements/environment/water/water-usage-records-keeping
+- !fairstandards/requirements/environment/water/other-criteria-relating-to-water
+
+- !fairstandards/requirements/environment/energy/energy-use-and-management-general-principle
+- !fairstandards/requirements/environment/energy/reduce-use-of-energy-resources
+- !fairstandards/requirements/environment/energy/use-of-alternative-energies-including-solar-wind-etc
+- !fairstandards/requirements/environment/energy/use-of-non-renewable-energies-general-principle
+
+- !fairstandards/requirements/environment/climate-carbon/carbon-policies-general-principle
+- !fairstandards/requirements/environment/climate-carbon/ghg-carbon-emissions-monitoring
+- !fairstandards/requirements/environment/climate-carbon/monitoring-reducing-non-carbon
+- !fairstandards/requirements/environment/climate-carbon/sequestration-of-green-house-gases-general-principle
+- !fairstandards/requirements/environment/climate-carbon/soil-or-trees-sequestration
+- !fairstandards/requirements/environment/climate-carbon/criteria-relating-to-specific-climate-adaptation-activities
+
+
+- !fairstandards/requirements/social/human-rights-and-local-communitites/human-rights-and-local-communities-general-principle
+- !fairstandards/requirements/social/human-rights-and-local-communitites/promotion-enhancement-of-education
+- !fairstandards/requirements/social/human-rights-and-local-communitites/promotion-enhancement-of-housing-and-sanitary-facilities
+- !fairstandards/requirements/social/human-rights-and-local-communitites/rights-of-indigenous-peoples-ilo-169
+- !fairstandards/requirements/social/human-rights-and-local-communitites/minority-rights
+- !fairstandards/requirements/social/human-rights-and-local-communitites/social-culture-and-sites
+- !fairstandards/requirements/social/human-rights-and-local-communitites/internationally-recognized-legally-protected-sites-and-cultural-heritage
+- !fairstandards/requirements/social/human-rights-and-local-communitites/services-and-benefits-to-local-communities
+- !fairstandards/requirements/social/human-rights-and-local-communitites/engagement-and-consultation-with-local-communities
+- !fairstandards/requirements/social/human-rights-and-local-communitites/supporting-local-communities-economic-devel
+- !fairstandards/requirements/social/human-rights-and-local-communitites/involuntary-resettlement-physical-displacement-and-or-economic-displacement
+- !fairstandards/requirements/social/human-rights-and-local-communitites/compensation-and-benefits-for-displaced-persons
+
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/conditions-of-work-general-principle
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/sexual-exploitation-harassment
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/safety-at-work-ilo-184
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/safety-at-work-legal-compliance
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/emergency-exits-and-evacuation-procedures
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/training-on-safety-issues
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/workplace-safety
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/safety-equipments-and-personal-protective-equipment
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/machinery-equipment-safety
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/emergency-first-aid-kits
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/safety-procedures-for-handling-chemicals
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/training-of-workers-on-procedures-to-deal-with-accidents
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/healthy-work-conditions
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/workers-access-to-safe-drinking-water
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/workers-access-to-decent-sanitary-facilitiess-etc
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/workplace-conditions-air-quality-ligthing-noise
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/infirmary-at-production-site
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/prohibition-of-physical-violence-intimidation
+- !fairstandards/requirements/social/labor-practices-conditions-of-work-and-social-protection/worst-forms-of-child-labor-ilo-182
+
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/conditions-of-employment-general-principle
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/human-resources-management-general-principle
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/employment-hiring-practices-legal-compliance
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/workforce-reduction-policies-and-practices-legal-compliance
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/payroll-records-and-pay-slips
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/workers-equipment-costs
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/special-leave-sickness-marriage-family-leave
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/pensions-and-social-security-benefits
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/child-labor-and-minimum-age-ilo-138
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/child-labour-legal-compliance-policy
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/maintenance-of-age-records-of-workers
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/child-labour-remediation-policy
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/hiring-and-employing-young-workers
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/equal-remuneration-ilo-100
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/part-time-contract-workers-rights
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/work-and-labor-rights-general-principle
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/voluntary-employment-no-forced-labor-ilo-29-and-105
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/use-of-prison-labor
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/template-format-for-terms-of-labour-contracts
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/illegal-excessive-deductions-or-fees-incl-recruitment-fees
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/retention-of-workers-documentation-id-passport
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/use-of-contracts-in-written-form
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/timely-payment-of-wages
+- !fairstandards/requirements/social/labor-practices-employment-and-employment-relationships/minimum-wage
+
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/freedom-of-association-ilo-87
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/collective-bargaining-ilo-98
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/no-discrimination-at-work-ilo-111
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/non-discrimination-of-persons-with-disabilities
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/workers-access-to-training-programs
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/joint-committees-and-unions
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/formation-of-workers-representation-in-countries-where-it-is-not-supported-by-legislation
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/workers-awareness-of-procedures-and-best-practices
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/gender-issues-general-principle
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/gender-considerations-in-impacts-and-risks-assessment-of-production
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/womens-rights-at-work
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/maternity-paternity-leave-days
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/non-discrimination-based-on-gender
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/participation-of-women-minorities-in-management
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/gender-policies-at-work-general-principles
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/family-friendly-policies-to-increase-the-labour-force-participation-of-women
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/development-assistance-policies-which-promote-the-economic-role-of-women
+- !fairstandards/requirements/social/labor-practices-human-development-and-social-dialogue/incentives-to-women-to-develop-their-careers
+
+
+- !fairstandards/requirements/management/economic-viability/economic-viability-general-principle
+- !fairstandards/requirements/management/economic-viability/long-term-sustainability-management-plan-continuous-improvement
+- !fairstandards/requirements/management/economic-viability/administration-and-management-general-principle
+
+- !fairstandards/requirements/management/sustainability-management/environment-and-social-management-systems-general-principles
+- !fairstandards/requirements/management/sustainability-management/staff-training-on-sustainability-issues
+- !fairstandards/requirements/management/sustainability-management/assessment-of-risks-and-impacts-on-water-levels-of-water-resources-used
+- !fairstandards/requirements/management/sustainability-management/assessment-of-risks-and-impacts-on-water-quality-of-water-resources-used
+- !fairstandards/requirements/management/sustainability-management/environment-and-social-risks-mitigation-and-performance-improvement
+- !fairstandards/requirements/management/sustainability-management/organizational-capacity-for-environmental-and-social-management
+- !fairstandards/requirements/management/sustainability-management/reporting-on-and-making-publicly-available-e-and-s-management-systems
+- !fairstandards/requirements/management/sustainability-management/corporate-social-responsibility-policy
+- !fairstandards/requirements/management/sustainability-management/internal-control-system
+
+- !fairstandards/requirements/management/supply-chain-responsibilities/supply-chain-stakeholders-mapping
+- !fairstandards/requirements/management/supply-chain-responsibilities/access-to-financial-services-payment-credit-savings-subsidies
+- !fairstandards/requirements/management/supply-chain-responsibilities/use-of-price-premium
+- !fairstandards/requirements/management/supply-chain-responsibilities/minimum-price-guarantees
+- !fairstandards/requirements/management/supply-chain-responsibilities/setting-up-contracts-with-traders
+- !fairstandards/requirements/management/supply-chain-responsibilities/access-and-selection-of-inputs-and-varieties-traditional-versus-improved-engineered
+- !fairstandards/requirements/management/supply-chain-responsibilities/traceability-of-inputs-varieties-and-records-of-materials-used
+- !fairstandards/requirements/management/supply-chain-responsibilities/policies-encouraging-clients-staff-and-suppliers-to-consider-sustainability-issues
+- !fairstandards/requirements/management/supply-chain-responsibilities/fair-marketing-based-on-factual-and-unbiaised-information
+- !fairstandards/requirements/management/supply-chain-responsibilities/group-organization-and-management
+- !fairstandards/requirements/management/supply-chain-responsibilities/criteria-for-local-micro-businesses-incubation-facilitation
+
+
+- !fairstandards/requirements/quality/product-service-quality-management/product-quality-technical-requirements
+- !fairstandards/requirements/quality/product-service-quality-management/products-packaging-and-transportation-policy
+- !fairstandards/requirements/quality/product-service-quality-management/quality-management-control-process-documented
+- !fairstandards/requirements/quality/product-service-quality-management/quality-management-objectives-established-and-monitored
+- !fairstandards/requirements/quality/product-service-quality-management/quality-management-internal-audit-system-in-place
+
+- !fairstandards/requirements/quality/food-feed-management-systems/establishment-and-implementation-of-prerequisite-programme
+- !fairstandards/requirements/quality/food-feed-management-systems/other-documents-to-ensure-effective-operation-of-food-feed-management-system
+- !fairstandards/requirements/quality/food-feed-management-systems/facilities-for-personnel-hygiene
+- !fairstandards/requirements/quality/food-feed-management-systems/protective-clothing
+- !fairstandards/requirements/quality/food-feed-management-systems/site-location-clear-identification-of-buildings-production-and-storage-areas
+- !fairstandards/requirements/quality/food-feed-management-systems/storage-of-chemicals-incl-storage-facilities-accessibility-and-handling-by-personnel
+- !fairstandards/requirements/quality/food-feed-management-systems/general-principle-about-chilling-storage-and-transportation
+- !fairstandards/requirements/quality/food-feed-management-systems/identity-preservation-model
+- !fairstandards/requirements/quality/food-feed-management-systems/traceability-system-established-and-monitored
+- !fairstandards/requirements/quality/food-feed-management-systems/food-production-process-and-control-quantity-control-procedures
+
+
+- !fairstandards/requirements/ethics/ethics-anti-corruption-and-bribery-principles-and-criteria/corruption-and-bribery-prevention
+- !fairstandards/requirements/ethics/ethics-anti-corruption-and-bribery-principles-and-criteria/anti-bribery-requirements-for-internal-controls-records-keeping-m-and-e
+- !fairstandards/requirements/ethics/ethics-anti-corruption-and-bribery-principles-and-criteria/anti-bribery-requirements-for-external-reporting-and-communication
+
+- !fairstandards/requirements/ethics/ethics-compliance-to-national-regional-and-international-legislation/compliance-to-social-and-labour-conventions-and-standards
+- !fairstandards/requirements/ethics/ethics-compliance-to-national-regional-and-international-legislation/compliance-to-national-and-regional-environmental-standards-and-regulations
+- !fairstandards/requirements/ethics/ethics-compliance-to-national-regional-and-international-legislation/respect-of-cultural-and-religion-rights
+- !fairstandards/requirements/ethics/ethics-compliance-to-national-regional-and-international-legislation/compliance-with-local-social-and-environmental-laws-and-regulations
+
+Data Source: https://sustainabilitymap.org/standard-details/71

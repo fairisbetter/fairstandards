@@ -1,0 +1,36 @@
+product-service-quality-management:
+	- quality-policy
+	- product-quality-technical-requirements
+	- using-organic-inputs-to-production
+	- energy-efficiency-of-production-process
+	- products-packaging-and-transportation-policy
+	- products-storage-facilities-excl-food-products
+	- quality-management-control-process-documented
+	- quality-management-traceability-and-records-keeping
+	- quality-management-objectives-established-and-monitored
+	- quality-management-internal-audit-system-in-place
+	- quality-management-monitoring-and-management-of-incidences
+	
+food-feed-management-systems:
+	- determination-of-processes-their-interactions-and-critical-elements
+	- establishment-and-implementation-of-prerequisite-programme
+	- other-documents-to-ensure-effective-operation-of-food-feed-management-system
+	- facilities-for-personnel-hygiene
+	- protective-clothing
+	- medical-screening
+	- sites-are-fit-for-safe-food-feed-production
+	- site-location-clear-identification-of-buildings-production-and-storage-areas
+	- storage-of-chemicals-incl-storage-facilities-accessibility-and-handling-by-personnel
+	- implementation-of-a-proper-and-complete-pest-control-programme
+	- qualification-of-internal-and-external-people-assured
+	- product-transportation-procedures
+	- general-principle-about-chilling-storage-and-transportation
+	- gmo-handling-procedures
+	- identity-preservation-model
+	- segregation-model
+	- food-feed-production-process-and-control-health-and-nutrition-requirements
+	- traceability-system-established-and-monitored
+	- record-information-on-received-products-and-suppliers
+	- food-production-process-and-control-product-analysis-and-testing
+	- food-production-process-and-control-quantity-control-procedures
+	

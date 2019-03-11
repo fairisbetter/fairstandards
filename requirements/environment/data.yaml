@@ -1,0 +1,154 @@
+soil:
+	- soil-general-principle
+	- soil-erosion
+	- soil-conservation
+	- soil-quality
+	- soil-nutrients
+	- soil-productivity
+	- soil-biodiversity
+	- soil-contamination
+	- soil-preparation-for-specific-crops
+	- soil-maintenance
+	- soil-enhancement-by-use-of-cover-crops
+	- soil-compaction
+	
+forests:
+	- forestry-general-principle
+	- reforestation
+	- deforestation-prevention-remediation
+	- forest-conservation
+	- forest-conversion-into-production-lands
+	- principles-conversion-of-agriculture-land-to-non-agriculture-purposes
+	
+inputs:
+	- chemicals-natural-organic-inputs-general-principle
+	- chemicals-or-substances-prohibition
+	- list-of-prohibited-chemicals
+	- respect-of-list-of-permitted-chemicals
+	- restrictions-on-surfactants-cleaning-agents-and-foam-inhibitors
+	- list-of-authorized-chemicals
+	- integrated-pest-management-ipm-icm
+	- training-on-integrated-pest-management-ipm
+	- chemicals-and-related-materials-general-principle
+	- agrochemicals-fertilizers-pesticides-soil-fumigants
+	- chemicals-storage-and-labelling
+	- chemicals-equipment-and-containers-storage-and-cleaning
+	- protection-of-non-target-areas-from-agro-chemical-use
+	- organic-natural-inputs-general-principle
+	- use-of-organic-fertilizer
+	- equipment-training
+	- chemicals-selective-and-targeted-application
+	- training-on-chemicals-handling-and-exposure
+	- chemical-substances-storage-disposal-waste-labelling
+	- treatment-of-waste-of-chemical-substances
+	- gmos-genetically-modified-varieties-prohibition
+	- gmos-genetically-modified-varieties-management-and-monitoring
+	- gmos-genetically-modified-varieties-risk-prevention
+	- genetically-modified-crops-and-products-traceability-and-labelling
+	
+biodiversity:
+	- biodiversity-general-principle
+	- criteria-to-ensure-adherence-to-international-conventions-on-biodiversity
+	- sustainable-management-and-use-of-natural-resources
+	- habitat-eco-system-restoration--rehabilitation
+	- impact-assessment-policy-for-new-production
+	- protection-of-rare-and-threatened-species-and-their-habitats
+	- requirements-for-no-net-loss-in-biodiversity
+	- impact-assessment-for-ongoing-production-harvesting
+	- wildlife-general-principle
+	- use-of-wildlife-species-and-resources
+	- specific-criteria-relating-to-rare,-threatened-or-endangered-wildlife-species
+	- impacts-on-wildlife-populations
+	- protecting-biodiversity-zones-via-set-asides
+	- ecological-niches-corridors
+	- criteria-related-to-maintaining-or-protecting-rare-threatened-or-endangered-ecosystems
+	- aquaculture-density-diversity
+	- native-species-protection-against-invasive-alien-species
+	- protection-of-ecosystems-against-invasive-species
+	- high-conservation-value-areas
+	- criteria-related-to-hcv-as-intended-in-the-hcv-resource-network
+	- prohibition-of-production-on-land-with-high-conservation-area-recognized-by-independent-expertise
+	- legally-protected-and-internationally-recognized-areas-for-their-biodiversity
+	- risks-and-impacts-on-ecosystem-services
+	- prost-production-practices-impact-assessment-rotation-of-crops
+	- human-settlements-in-or-close-to-production-areas
+	- other-criteria-relating-to-biodiversity
+	- criteria-related-to-natural-wetlands-and-or-watercourses-affected-by-production
+	- criteria-related-to-sustainable-harvesting
+	- wild-catch-fisheries-procedures-regarding-management-and-reduction-of-discards
+	- specific-criteria-for-wild-catch-fisheries-prohibition-of-of-destructive-fishing-methods
+	- wild-catch-fisheries-sustainable-exploitation-of-marine-resources
+	
+livestock:
+	- animals-livestock-general-principle
+	- breeding
+	- feeding
+	- specific-criteria-on-origin-of-animal-feed
+	- special-criteria-on-quality-of-animal-feed
+	- special-requirements-for-organic-animal-feed
+	- criteria-related-to-animals-medication
+	- procedures-to-prevent-the-spread-of-animal-disease
+	- general-criteria-related-to-animals-welfare
+	- criteria-related-to-transport-of-animals
+	- criteria-related-to-slaughter-slaughtering-process-minimum-age
+	- criteria-related-to-the-use-of-electric-prods-with-livestock
+	- techniques-to-be-used-for-animal-identification-and-or-castration
+	- animals-physical-integrity
+	- litter-manure
+	- stock-density-livestock
+	- outdoor-access-livestock
+	- animal-housing
+	- aquaculture-interior-exterior-housing
+	- aquaculture-honey-extraction-process
+	- aquaculture-analysis-of-water-quality
+	- aquaculture-systems-in-place-to-minimize-the-unintentional-release-or-escape-of-farmed-species
+	- aquaculture-use-of-hatchery-raised-seed
+	- aquaculture-prohibition-of-prophylactic-use-of-antimicrobials
+	- other-criteria-relating-to-animals-treatment
+	
+waste:
+	- waste-management-general-principle
+	- treatment-and-use-of-solid-waste
+	- monitoring-and-measuring-solid-waste-volumes
+	- rating-to-reducing-solid-waste-volumes
+	- monitoring-and-measuring-waste-toxicity
+	- solid-waste-reduction-re-use-recycle
+	- non-solid-waste
+	- criteria-related-to-waste-segregation
+	- run-off-of-waste-chemicals-mineral-and-organic-substances
+	- air-pollution
+	- pollution-incidents-mitigation-procedures-for-risks-monitoring-and-records-keeping
+	- composting
+	- waste-disposal-incl-solid-waste-non-solid-waste-hazardous-waste
+	- disposal-of-hazardous-waste
+	- waste-elimination-through-the-use-of-fire
+	
+water:
+	- water-use-and-management-general-principle
+	- water-management-plan
+	- water-dependencies
+	- water-use-reducting-including-reuse-and-recycling
+	- wastewater-management-treatment
+	- criteria-relating-to-limitations-of-wastewater-volume
+	- water-contamination-pollution
+	- water-quality
+	- water-disposal-storage
+	- monitoring-of-water-usage
+	- water-usage-records-keeping
+	- other-criteria-relating-to-water
+	
+energy:
+	- energy-use-and-management-general-principle
+	- reduce-use-of-energy-resources
+	- use-of-alternative-energies-including-solar-wind-etc
+	- use-of-non-renewable-energies-general-principle
+	
+climate-carbon:
+	- carbon-policies-general-principle
+	- ghg-carbon-emissions-monitoring
+	- analysis-of-possible-alternatives-to-reduce-ghg-emissions
+	- monitoring-reducing-non-carbon
+	- sequestration-of-green-house-gases-general-principle
+	- soil-or-trees-sequestration
+	- criteria-relating-to-specific-climate-adaptation-activities
+	
